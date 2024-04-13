@@ -11,10 +11,10 @@ KDPTools is a web application built with React and Firebase, designed to assist 
 
 # Technologies Used
 
-- Utilized React.js
-- Employed Tailwind CSS
-- Integrated Firebase
-- Leveraged React Router
+- React.js
+- Tailwind CSS
+- Firebase
+- React Router
 - And more...
 
 # License
