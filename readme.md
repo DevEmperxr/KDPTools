@@ -9,6 +9,10 @@ KDPTools is a web application built with React and Firebase, designed to assist 
 - **Responsive Design**: Consistent experience across various devices.
 - **Export Options**: Export puzzles in PDF format.
 
+## Live App
+
+- If you want to use this app, visit [https://toolkdp-81dc1.web.app/]. KDPTools is deployed and hosted on Firebase.
+
 # Technologies Used
 
 - React.js
