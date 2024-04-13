@@ -11,7 +11,8 @@ KDPTools is a web application built with React and Firebase, designed to assist 
 
 ## Live App
 
-- If you want to use this app, visit [https://toolkdp-81dc1.web.app/]. KDPTools is deployed and hosted on Firebase.
+- If you want to use this app, visit https://toolkdp-81dc1.web.app .
+- This webapp is deployed and hosted on Firebase :fire:
 
 # Technologies Used
 
