@@ -1,3 +1,8 @@
 build
 .env
 node_modules
+.firebaserc
+firebase.json
+/.github
+/.firebase
+.gitignore
